@@ -18,5 +18,8 @@ authors:
 identifiers:
   - type: doi
     value: 10.5281/zenodo.10950128
-    description: DOI of the Github repository
+    description: Zenodo repository of the GitHub code
 repository-code: 'https://github.com/Raman2DMaterials/fitraman-p'
+license: MIT
+version: v1.0.0-alpha
+date-released: '2024-04-09'
