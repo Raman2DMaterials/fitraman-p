@@ -17,6 +17,6 @@ authors:
     affiliation: ' Institute of Optoelectronic Systems and Microtechnology (ISOM), Universidad Politécnica de Madrid, 28040 Madrid, Spain'
 identifiers:
   - type: doi
-    value: 
+    value: 10.5281/zenodo.10950128
     description: DOI of the Github repository
 repository-code: 'https://github.com/Raman2DMaterials/fitraman-p'
