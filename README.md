@@ -28,7 +28,7 @@ Lozano, M.S.; Bernat-Montoya, I.; Angelova, T.I.; Mojena, A.B.; Díaz-Fernández
 
 ## Aknowledgments
 
-M.S.L acknowledges financial support from the Generalitat Valenciana (Project: CIAPOS/2021/293) and from AGENCIA ESTATAL DE INVESTIGACIÓN of Ministerio de Ciencia e Innovacion (PID2020-118855RB-I00).
+M.S.L acknowledges financial support from the Generalitat Valenciana (Project: CIAPOS/2021/293). M.S.L and V.J.G acknowledge financial support from AGENCIA ESTATAL DE INVESTIGACIÓN of Ministerio de Ciencia e Innovacion (PID2020-118855RB-I00). 
 
 ## Contributing
 
