@@ -28,7 +28,8 @@ Lozano, M.S.; Bernat-Montoya, I.; Angelova, T.I.; Mojena, A.B.; Díaz-Fernández
 
 ## Aknowledgments
 
-M.S.L acknowledges financial support from the Generalitat Valenciana (Project: CIAPOS/2021/293). M.S.L and V.J.G acknowledge financial support from AGENCIA ESTATAL DE INVESTIGACIÓN of Ministerio de Ciencia e Innovacion (PID2020-118855RB-I00). 
+M.S.L acknowledges financial support from the Generalitat Valenciana (Project: CIAPOS/2021/293). V.J.G acknowledges financial support from the Generalitat Valenciana (CDEIGENT/2020/009) and to the AGENCIA ESTATAL DE INVESTIGACIÓN of the Ministerio de Ciencia e Innovacion (CNS2023-145093). M.S.L and V.J.G acknowledge financial support from AGENCIA ESTATAL DE INVESTIGACIÓN of Ministerio de Ciencia e Innovacion (PID2020-118855RB-I00). 
+This code forms part of the Advanced Materials program and was supported by Ministerio de Ciencia e Innovacion (MCIN) with funding from European Union NextGenerationEU (PRTR-C17.I1) and by Generalitat Valenciana (MFA/2022/025).
 
 ## Contributing
 
