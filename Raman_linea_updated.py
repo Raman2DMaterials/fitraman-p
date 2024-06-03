@@ -934,7 +934,7 @@ def Lanzarajuste_lineas(names):
     print(names)
     filas = 1 # de 0 a filas-1 van de izquierda a derecha
     
-    folder_to_save = r'C:/Users/msinloz/Documents/Python_Projects/Graphene_analysis/Analysis'
+    folder_to_save = r'Analysis'
     filewithmatrix = names
     spectraMatrix = np.loadtxt(filewithmatrix)
     columnas = spectraMatrix.shape[1] # de 0 a columnas-1 van de arriba a abajo
